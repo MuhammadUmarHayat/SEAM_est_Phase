@@ -1,0 +1,8 @@
+﻿
+items(itemID,category,title,size,unitprice,image,remarks,status)
+
+users(userid,name,gender,password,email,mobile,Address,image)
+
+
+
+
